@@ -1,5 +1,5 @@
-# Airbnb_Data
-Airbnb Listings & Reviews Dataset: 
+# Airbnb Data
+## Airbnb Listings & Reviews Dataset: <hr>
 This dataset contains information about Airbnb listings, including property details, host information, pricing, availability, and guest reviews. It comprises data for 250,000+ listings in 10 major cities, along with over 5 million historical reviews.
 
 We create a sample of the data after merging the two data sets because there are a lot of rows in the data. By addressing the missing values and verifying the duplicate values, we sanitize the data.
